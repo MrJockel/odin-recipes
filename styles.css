@@ -1,0 +1,23 @@
+h1 {
+    color: black;
+    font-family:'Arial Narrow Bold', sans-serif;
+    background-color: white;
+    width: 300px;
+}
+
+#top{
+    font-size: 16px;
+
+}
+
+button, a {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: gray;
+    width: 130px;
+}
+
+body{
+    background-color: whitesmoke;
+    background-image: url(https://images.immediate.co.uk/production/volatile/sites/30/2020/08/processed-food700-350-e6d0f0f.jpg?quality=90&resize=556,505);
+}
