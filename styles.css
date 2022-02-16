@@ -7,10 +7,11 @@ h1 {
     width: 300px;
 }
 
-#top{
+#goTotop{
     font-size: 16px;
     margin-left: 0px;
     width: 200px;
+    margin-left: 50px;
 
 }
 
@@ -41,4 +42,5 @@ hr {
 img {
     width: 150px;
     height: auto;
+    margin-left: 80px;
 }
